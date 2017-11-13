@@ -1,10 +1,13 @@
 <h1 align = "center">:rocket: Scala :facepunch:</h1>
 
 ---
----
 ## [Scala][1]
 ![DataType][2]
 ---
+
+
+
+
 
 
 ---
