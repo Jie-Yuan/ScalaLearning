@@ -20,6 +20,7 @@ object G{
   }
 }
 
+// 调用类本身方法
 object GG{
   def main(args: Array[String]): Unit = {
     println(p())
