@@ -8,7 +8,7 @@ object F{
   }
 }
 
-class F{
+class FF{
   def add(a: Int, b: Int): Int ={
     return a + b
   }
