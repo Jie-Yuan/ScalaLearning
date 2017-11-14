@@ -2,7 +2,7 @@
 
 ---
 
-## this: __init__
+## this: `__init__`
 
 ```scala
 class ThisExample{  
