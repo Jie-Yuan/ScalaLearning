@@ -1,3 +1,5 @@
+[<h1 align = "center">:rocket: Scala列表方法 :facepunch:</h1>][1]
+
 ---
 ## 拼接列表
  - `::`
@@ -35,3 +37,5 @@ fruit.reverse
 ```
 ```scala
 ```
+---
+[1]: http://www.yiibai.com/scala/scala_lists.html
