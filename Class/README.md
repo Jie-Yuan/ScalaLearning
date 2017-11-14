@@ -18,6 +18,12 @@ class ThisExample{
     }  
 }  
 
+//class ThisExample(id:Int, name: String){
+//  def show(){
+//    println(id+" "+name)
+//  }
+//} 
+
 object Demo{  
     def main(args:Array[String]){  
         var t = new ThisExample(1010,"Maxsu")  
@@ -27,9 +33,5 @@ object Demo{
 ```
 
 ```scala
-class ThisExample(id:Int, name: String){  
-    def show(){  
-        println(id+" "+name)  
-    }  
-}  
+ 
 ```
