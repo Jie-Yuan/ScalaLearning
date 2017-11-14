@@ -1,4 +1,4 @@
-- `::`
+- `::`: `List.concat()`
 ```scala
 // List of Strings
 val fruit = "apples"::("oranges"::("pears"::Nil))
